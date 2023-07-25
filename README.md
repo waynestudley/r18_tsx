@@ -1,2 +1,7 @@
 # r18_tsx
-demo learning project
+
+npm install
+
+npm run dev
+
+Built with Vite
